@@ -9,5 +9,8 @@ available.
   Connor is a grad student at EMU, hoping to graduate sometime in the next few years. He is hoping to learn more about 
   software project management through his experience in COSC 581.
 
+#### Meeting Times
+Group 1 meets every Friday at 5:30pm ET
+
 - #### YOUR NAME HERE - Team Member
   > BIO PLACEHOLDER
