@@ -9,6 +9,10 @@ available.
   Connor is a grad student at EMU, hoping to graduate sometime in the next few years. He is hoping to learn more about 
   software project management through his experience in COSC 581.
 
+- #### Matthew L - Team Member
+  Matthew (Matt) is an undergrad student at EMU and is hoping to graduate later this year. He is hoping to have a project that can
+  look good on a resume and can provide a solid learning experience.
+
 - #### YOUR NAME HERE - Team Member
   > BIO PLACEHOLDER
 
