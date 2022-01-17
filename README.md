@@ -13,8 +13,8 @@ available.
   Matthew (Matt) is an undergrad student at EMU and is hoping to graduate later this year. He is hoping to have a project that can
   look good on a resume and can provide a solid learning experience.
 
-- #### YOUR NAME HERE - Team Member
-  > BIO PLACEHOLDER
+- #### Olaoluwa Ife-Iji - Team Member
+  I am a Junior at EMU with a Major in Computer Science and a Minor in Simulation, Animation and Gaming, I am an International Student from Nigeria. I will graduate in May 2023 and i am looking to learn all the basics of working in a group on a project in order to strengthen my Portfolio
 
 #### Meeting Times
 Group 1 meets every Friday at 5:30pm ET
